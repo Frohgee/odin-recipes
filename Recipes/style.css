@@ -1,0 +1,11 @@
+.header {
+    font-size: 30px;
+    background-color: orange;
+    color: white;
+    font-weight: bolder;
+}
+
+.basic {
+    font-size: 14px;
+    background-color: yellow;
+}
